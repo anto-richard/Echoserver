@@ -87,11 +87,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 #### CLIENT SIDE SOCKET CODE OUTPUT:
 
-![ep1](https://github.com/anto-richard/Echoserver/assets/93427534/250afe9e-53d2-4fd6-a416-4b6cfbbcb7c6)
+![ep2](https://github.com/anto-richard/Echoserver/assets/93427534/c89aa01d-1d95-4100-9586-31e2be379ee4)
 
 #### SERVER SIDE SOCKET CODE OUTPUT:
 
-![ep2](https://github.com/anto-richard/Echoserver/assets/93427534/c89aa01d-1d95-4100-9586-31e2be379ee4)
+![ep1](https://github.com/anto-richard/Echoserver/assets/93427534/250afe9e-53d2-4fd6-a416-4b6cfbbcb7c6)
 
 ## RESULT:
 
